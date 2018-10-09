@@ -1,0 +1,15 @@
+	    3
+	/	\
+	8	15
+       /  \     /  \
+     12   10    18 25
+    /  \   /   
+   36  19  11  
+
+----Min HEAP----
+root always holds smallest value
+Binary Tree, but not a BST
+1. parent smaller than child
+2. no left-> right property
+3. as full as possible, left to right
+
