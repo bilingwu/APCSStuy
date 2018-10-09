@@ -1,0 +1,11 @@
+Repo: https://github.com/alex-wyc/APCSFinalProject
+
+-I reviewed every odd document in the src file. The code was well organized
+and well documented. They are named apprioprately.
+However, it is difficult to tell which code is functional and which is not. 
+There can be a small comment about the general functionality
+of each file.
+-The only file that I had trouble understanding is the RegExGoodies.java.
+I'm guessing that it replaces a phrase with another, but that is not clear
+through the comments.
+-In general, well written and shows 
