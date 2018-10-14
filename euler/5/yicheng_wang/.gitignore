@@ -1,0 +1,21 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+a.out
+*.class
+*.pyc
+
+test
+test.c
+text.out
+
+# Text Backup Files #
+*.s[a-w][a-z]
+*~
+\#*\#
+.\#*
+
+
